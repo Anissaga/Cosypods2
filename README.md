@@ -1,0 +1,2 @@
+# Cosypods2
+ template
